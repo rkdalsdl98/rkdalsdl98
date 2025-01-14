@@ -1,11 +1,14 @@
 ## 🐶 Han Kang Min  
 + ✏ (2014.02 ~ 2017.02 인천효성고등학교)
 + ✏ (2018.03 ~ 2018.04 한서대학교 중퇴)
++ ✏ (2021.04 ~ 2022.11 주식회사 플랜온마스)
++ ✏ (2024.07 ~ 2024.12 카카오테크 부트캠프)
 
 ## 🐕 Project  
-+ 🙂 [Healthyou](https://github.com/rkdalsdl98/healthyou-app)
-+ 🙂 [SirenOrder](https://github.com/rkdalsdl98/sirenorder-server)
++ 🙂 [Eatbook](https://github.com/rkdalsdl98/eatbook-releasenote)
 + 🙂 [KBC-Office](https://harpsharp.com/)
++ 🙂 [SirenOrder](https://github.com/rkdalsdl98/sirenorder-server)
++ 🙂 [Healthyou](https://github.com/rkdalsdl98/healthyou-app)
 
 ## 🧧 Using  
 ### Languages  
